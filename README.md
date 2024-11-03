@@ -4,6 +4,8 @@
 
 ### Contenido:
 1. Operadores de Pixel
+    - Pasaje a coordenadas cromáticas
+    - White-Patch
 
 ## Operadores de Pixel
 ### [Algoritmo de pasaje a coordenadas cromáticas](./chromatic_coordinates.ipynb).
@@ -11,6 +13,8 @@
 ![](./imgs/coord_cromaticas/chromatic_coordinates_output.png)
 
 ### [Algoritmo White-Patch](./white_patch.ipynb)
+
+![](./imgs/white_patch/white_patch_output.png)
 
 ## Environment setup
 To create a Python virtual environment for the project:
